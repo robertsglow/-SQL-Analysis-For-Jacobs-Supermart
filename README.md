@@ -25,8 +25,26 @@ Looks like our table will be empty:weary:Lets populate it
 
 ![](3_(2).png)
 
-Lets select all that we have and see the Before and After magic
+Lets select all we populated to see the Before and After magic
 
 Before                                           |After
 :-------------------------------------------------|:-----------------------------------------------------------
-![]()                                  |![](4.png)
+![](Select_new.png)                                             |![](4.png)
+
+Lets do some basic calculations
+- average
+- minimum
+- count
+
+![](5.png)
+
+The result:
+
+![](6_(2).png)
+
+Lets update the salary of one of the Employee:shushing_face:
+Update Query                                                 | Updated
+:----------------------------------------------------------|:---------------------------------------------
+![](7_(2).png)                                             |![](8.png)
+
+
