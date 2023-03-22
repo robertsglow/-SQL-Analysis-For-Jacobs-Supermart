@@ -31,6 +31,7 @@ Before                                           |After
 :-------------------------------------------------|:-----------------------------------------------------------
 ![](Select_new.png)                                             |![](4.png)
 
+
 Lets do some basic calculations
 - average
 - minimum
@@ -52,3 +53,10 @@ Before                                                     | After
 :--------------------------------------------------------|:--------------------------------------
 ![](9.png)                                               |![](10-(2).png)
 
+We want to modify our table and, add another column to the existing table.
+
+Before                                          | After
+:-------------------------------------------|:-------------------------------------
+![](alter-column_.png)                                        |![](12.png)
+
+Oh Oh:unamused: Empty column again. Lets populate
