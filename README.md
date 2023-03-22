@@ -67,7 +67,7 @@ Before Population                               | After Population
 
 Yaay!
 
-We can **SELECT** functions, we may to call out some columns without returning the whole column. See here:point_down:
+We can **SELECT** functions, we may to call out some columns without returning the entire table. See here:point_down:
 
 ![](15_NEW.png)
 
@@ -78,4 +78,6 @@ We can see the statement and Output below
 Query                                   |Result
 :---------------------------------------|:---------------------------------------
 ![](16.png)                                    |![](17.png)
+
+Order by command:
 
