@@ -24,3 +24,9 @@ Now, let us create a table.The table will be hosted in our Database
 Looks like our table will be empty:weary:Lets populate it
 
 ![](3_(2).png)
+
+Lets select all that we have and see the Before and After magic
+
+Before                                           |After
+:-------------------------------------------------|:-----------------------------------------------------------
+![]()                                  |![](4.png)
