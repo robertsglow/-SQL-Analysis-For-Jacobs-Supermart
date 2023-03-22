@@ -11,4 +11,16 @@ _Disclaimer_ This project is done to improve my skills and to show that to a fau
 
 Lets create the **Database** that will house our queries
 
+Database                                               |Result
+:------------------------------------------------------|:------------------------------------------------------
+![](new_1.png)                                                  |![](next_.png)
 
+There we have it:smiley: Make sure you select the Database you just created,so that when you create your table it automatically houses it in that Database
+
+Now, let us create a table.The table will be hosted in our Database
+
+![](2.png)
+
+Looks like our table will be empty:weary:Lets populate it
+
+![](3_(2).png)
