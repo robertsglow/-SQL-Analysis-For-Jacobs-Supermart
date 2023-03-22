@@ -60,3 +60,22 @@ Before                                          | After
 ![](alter-column_.png)                                        |![](12.png)
 
 Oh Oh:unamused: Empty column again. Lets populate
+
+Before Population                               | After Population
+:-----------------------------------------------|:------------------------------------------
+![](13-(2).png)                                           |![](14.png)
+
+Yaay!
+
+We can **SELECT** functions, we may to call out some columns without returning the whole column. See here:point_down:
+
+![](15_NEW.png)
+
+We want to use the group by statement now
+
+We can see the statement and Output below
+
+Query                                   |Result
+:---------------------------------------|:---------------------------------------
+![](16.png)                                    |![](17.png)
+
