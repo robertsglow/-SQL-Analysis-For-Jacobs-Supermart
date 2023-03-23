@@ -94,4 +94,23 @@ The SELECT statement is used to call our table, it then returns our entire colum
 ![](new_0.png)
 
 Next on the list: We want to create another table which will house our Employee_payment_details
-![]()
+![](22.png)
+
+lets populate :tired_face:
+
+![](23.png)
+
+Now that it has been effected,lets view our tables together! Yes, we can view tables together using the SELECT command.see here:point_down:
+Before                                     | After
+:------------------------------------------|:-------------------------------------------
+![](24-(2).png)                            |![](24next.png)
+
+We want to add more rows to our table,but different banks from default bank
+
+![](25.png)
+
+We want to use the SELECT command along with the WHERE clause to run some Queries.
+Before                                    |After
+:-----------------------------------------|:------------------------------------------
+![](26.png)                                     |![](27.png)
+
