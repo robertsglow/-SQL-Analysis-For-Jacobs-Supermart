@@ -80,10 +80,15 @@ Query                                   |Result
 ![](16.png)                                    |![](17.png)
 
 We want to use the ORDER BY command to sort our query in asc order
+
 ![](orders-.png)
 
-The next on the line now is to add more values to our existing table after which we will drop the salary column. The output is below
+The next on the line now is to add more values to our existing table after which,we will drop the salary column. The output is below
 
 Populating table                           | Alter Query
 :------------------------------------------|:----------------------------------
-![]()                                       |![]()
+![](20-(2).png)                               |![](21.png)
+
+The SELECT statement is used to call our table, it then returns our entire column excluding the Salary column
+
+![](new_0.png)
