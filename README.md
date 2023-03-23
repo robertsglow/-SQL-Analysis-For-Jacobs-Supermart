@@ -86,4 +86,4 @@ The next on the line now is to add more values to our existing table after which
 
 Populating table                           | Alter Query
 :------------------------------------------|:----------------------------------
-
+![]()                                       |![]()
