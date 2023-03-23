@@ -89,6 +89,6 @@ Populating table                           | Alter Query
 :------------------------------------------|:----------------------------------
 ![](20-(2).png)                               |![](21.png)
 
-The SELECT statement is used to call our table, it then returns our entire column excluding the Salary column
+The SELECT statement is used to call our table, it then returns our entire column excluding the Salary column which we already dropped
 
 ![](new_0.png)
