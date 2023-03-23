@@ -92,3 +92,6 @@ Populating table                           | Alter Query
 The SELECT statement is used to call our table, it then returns our entire column excluding the Salary column which we already dropped
 
 ![](new_0.png)
+
+Next on the list: We want to create another table which will house our Employee_payment_details
+![]()
