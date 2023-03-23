@@ -79,5 +79,11 @@ Query                                   |Result
 :---------------------------------------|:---------------------------------------
 ![](16.png)                                    |![](17.png)
 
-Order by command:
+We want to use the ORDER BY command to sort our query in asc order
+![](orders-.png)
+
+The next on the line now is to add more values to our existing table after which we will drop the salary column. The output is below
+
+Populating table                           | Alter Query
+:------------------------------------------|:----------------------------------
 
