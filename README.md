@@ -3,7 +3,7 @@
 ![](Image_front-2.png)
 
 **Introduction:**
-This is an SQL Analysis for a Supermart Store, showing the Names,Departments,Salaries,State of each workers in the Store.
+This is an SQL Analysis for an imaginary Supermart Store, showing the Names,Departments,Salaries,State of each workers in the Store.
 Areas covered in the analysis includes DDL,DML,TCL,TQL(of course because i did a lot of **SELECTING**:see_no_evil:) You will definitely find more query languages along the line in this project:yum:
 
 
