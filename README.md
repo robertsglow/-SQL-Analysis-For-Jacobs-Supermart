@@ -114,3 +114,15 @@ Before                                    |After
 :-----------------------------------------|:------------------------------------------
 ![](26.png)                                     |![](27.png)
 
+Lets use the comparison operator to run Queries in our Employee_payment_detais table.Below is a snippet of what the before and after query looks like.
+Before                                  |After
+:------------------------------------------|:------------------------------------------
+![](29_(3).png)                                      |![](29_(4).png)
+
+Oops! looks like our time is far spent :open_mouth: Lets look at the range operator before we conclude.
+
+![](30-(2).png)
+
+![](30-3.png)
+
+Thank you for staying tuned. In the concluding part, we will be joining our tables and creating views:yawning_face:
