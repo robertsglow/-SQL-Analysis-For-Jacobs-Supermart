@@ -59,7 +59,7 @@ Before                                          | After
 :-------------------------------------------|:-------------------------------------
 ![](alter-column_.png)                                        |![](12.png)
 
-Oh Oh:unamused: Empty column again. Lets populate
+Oh Oh:unamused: Empty rows again.Lets populate
 
 Before Population                               | After Population
 :-----------------------------------------------|:------------------------------------------
@@ -67,7 +67,7 @@ Before Population                               | After Population
 
 Yaay!
 
-We can **SELECT** functions, we may to call out some columns without returning the entire table. See here:point_down:
+We can **SELECT** functions, we may want to call out some columns without returning the entire table. See here:point_down:
 
 ![](15_NEW.png)
 
